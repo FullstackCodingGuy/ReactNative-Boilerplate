@@ -18,6 +18,8 @@ A boilerplate for building cross-platform mobile applications using React Native
 
 ## Getting Started
 
+[Get Started Without a Framework](https://reactnative.dev/docs/getting-started-without-a-framework)
+
 1. Clone the repository:
 
    ```bash
